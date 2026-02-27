@@ -1,0 +1,9 @@
+  {
+    "name": "GFEX",
+    "description": "GAP Index prediction market. Predict BTC/ETH price gap direction in 15 seconds with on-chain
+  settlement on Base.",
+    "url": "https://gfex.io",
+    "imageUrl": "/images/partners/gfex.png",
+    "category": "defi",
+    "subcategory": "dex"
+  }
